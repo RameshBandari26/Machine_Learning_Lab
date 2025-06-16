@@ -1,4 +1,4 @@
-# Machine Lerning Lab 
+# Machine Learning Lab 
 ID = B200571 
 Name = Ramesh Bandari 
 Class = CSE-C1
